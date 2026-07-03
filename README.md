@@ -1,3 +1,7 @@
+
+[[[https://doi.org/10.5281/zenodo.21165384
+](https://doi.org/10.5281/zenodo.21165384)](https://doi.org/10.5281/zenodo.21165384)](https://doi.org/10.5281/zenodo.21165384)
+------------------
 # The Negentropic Absurd GRA Agent
 
 *From absurdity to order – iterative entropy reduction for verifiable innovation.*
